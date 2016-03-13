@@ -17,7 +17,7 @@ second = int(input("\n please enter '1 = don't bat an eye and keep going OR 2 = 
 if second == 1:
     print("You keep biking and pick up speed when you hear 2 men behind you running shouting telling you they will catch you\n"
           "and after maybe 20 seconds you get beaten down and the two men get on your BMX")
-    secondOne = int(input("\n please enter '1 = Walk home OR 2 = walk back to Domenic.': "))
+secondOne = int(input("\n please enter '1 = Walk home OR 2 = walk back to Domenic.': "))
 if secondOne == 1:
     print("You walk home and the rest of your life is boring you did get beat at home for losing your bike")
 elif secondOne == 2:
