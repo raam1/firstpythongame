@@ -6,7 +6,7 @@ print("Basically you are a black nerd in the american ghetto that love 90's hip-
       "but thats where the dope dealers are that always try to steal your bike....")
 
 first = int(input("\n please enter '1 = bike through the gang OR 2 = 2nd route.': "))
-
+def gamestart(
 while first != 1:
     print("You bike to the 2nd route and mentally getting prepared for men running after you trying to grab your bike when you see\n"
         "the most popular dope dealer 'Domenic' in the city standing there calling you")
@@ -34,6 +34,6 @@ while first != 1:
 print("You start biking to the gang and when you are sure you will make it you feel a very intense pain in your back.\n"
         "GAME OVER")
 
+):
 
-
-
+#def gameover ()
